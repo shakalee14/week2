@@ -1,9 +1,9 @@
 h1 {
-	font-family: 'Monaco', monospace;
+	font-family: 'Lobster', monospace;
 	font-weight: bold;
 	font-size: 60px;
 	line-height: 20px;
-	color: #009900;
+	color: #2F4F4F;
 }
 
 /*how to make a background color and image*/
@@ -17,16 +17,16 @@ body {
 }
 
 h3 {
-	font-family: 'Monaco', monospace;
+	font-family: 'Muli', monospace;
 	font-weight: 900;
 	color: #FF0033;
 }
 
 p {
-	font-family: 'Monaco', monospace;
+	font-family: 'Muli', monospace;
 	font-size: 14px;
 	line-height: 14px;
-	color: #009900;
+	color: #3CB371;
 }
 
 
@@ -40,7 +40,7 @@ div {text-align: center}
 	border-radius: 50%;}
 
 /*make hyperlink red and get rid of underline*/
-a { font-family: 'Monaco', monospace;
+a { font-family: 'Muli', monospace;
 	font-size: 17px;
 	line-height: 17px;
 	color: #8B0000;

@@ -9,7 +9,7 @@ h1 {
 /*how to make a background color and image*/
 body { 
 	background-image: url("file:///Users/hallieclark/Desktop/sankofa.jpg");
-		background-size: 500px 500px;
+		background-size: 499px 499px;
 		background-repeat: no-repeat;
 		opacity: 20.0;
 		background-attachment: fixed;

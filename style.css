@@ -3,13 +3,13 @@ h1 {
 	font-weight: bold;
 	font-size: 60px;
 	line-height: 20px;
-	color: #33CC00;
+	color: #009900;
 }
 
 /*how to make a background color and image*/
 body { 
-	background-image: url("https://www.goldcoastafrica.com/catalog/images/703823.jpg");
-		background-size: 680px 680px;
+	background-image: url("file:///Users/hallieclark/Desktop/sankofa.jpg");
+		background-size: 500px 500px;
 		background-repeat: no-repeat;
 		opacity: 20.0;
 		background-attachment: fixed;
@@ -26,7 +26,7 @@ p {
 	font-family: 'Monaco', monospace;
 	font-size: 14px;
 	line-height: 14px;
-	color: #33CC00;
+	color: #009900;
 }
 
 

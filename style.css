@@ -1,0 +1,59 @@
+h1 {
+	font-family: 'Monaco', monospace;
+	font-weight: bold;
+	font-size: 60px;
+	line-height: 20px;
+	color: #33CC00;
+}
+
+/*how to make a background color and image*/
+body { 
+	background-image: url("https://www.goldcoastafrica.com/catalog/images/703823.jpg");
+		background-size: 680px 680px;
+		background-repeat: no-repeat;
+		opacity: 20.0;
+		background-attachment: fixed;
+		background-position: center;)
+}
+
+h3 {
+	font-family: 'Monaco', monospace;
+	font-weight: 900;
+	color: #FF0033;
+}
+
+p {
+	font-family: 'Monaco', monospace;
+	font-size: 14px;
+	line-height: 14px;
+	color: #33CC00;
+}
+
+
+div {text-align: center}
+
+/*center the div box*/
+.container {
+	width: 75%;
+	margin: 100px auto;}
+.img-circle {
+	border-radius: 50%;}
+
+/*make hyperlink red and get rid of underline*/
+a { font-family: 'Monaco', monospace;
+	font-size: 17px;
+	line-height: 17px;
+	color: #8B0000;
+	text-decoration: underline, bold;}
+
+/*hover over link*/
+a:hover {
+	color: black;
+}
+
+/*visited link*/
+a:visited {
+	color: #9933FF;
+}
+
+
